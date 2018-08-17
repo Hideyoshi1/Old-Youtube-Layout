@@ -77,12 +77,3 @@ function addGlobalStyle(css) {
 }
 // addGlobalStyle('#player { position: absolute !important; }');
 // addGlobalStyle('#player { top: 59px !important; }');
-
-// GM_addStyle ( `
-//     #player {
-//         position: absolute !important;
-//         top: 59px !important;
-//     }
-// ` );
-// document.getElementById("player").style.position = 'absolute';
-// document.getElementById("player").style.top = '59px';
