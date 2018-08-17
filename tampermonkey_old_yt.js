@@ -75,8 +75,8 @@ function addGlobalStyle(css) {
     style.innerHTML = css;
     head.appendChild(style);
 }
-addGlobalStyle('#player { position: absolute !important; }');
-addGlobalStyle('#player { top: 59px !important; }');
+// addGlobalStyle('#player { position: absolute !important; }');
+// addGlobalStyle('#player { top: 59px !important; }');
 
 // GM_addStyle ( `
 //     #player {
